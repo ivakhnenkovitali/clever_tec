@@ -1,6 +1,5 @@
 
 package ru.clevertec.check;
-
 import ru.clevertec.check.model.*;
 import ru.clevertec.check.repository.*;
 import ru.clevertec.check.service.*;
